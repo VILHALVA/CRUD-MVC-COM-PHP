@@ -56,7 +56,7 @@ A aplicação explora diversos recursos, como autenticação, permitir ações a
 ## CREDITOS:
 - [PROJETO CRIADO PELO "EricNeves"](https://github.com/EricNeves/simpleCRUDMVC)
 - [VEJA O VIDEO DESSE PROJETO](https://youtu.be/jamKWbvmerQ?si=Qgm1hxWr-SQ810mx)
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
 
 
 
